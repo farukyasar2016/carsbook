@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "524759330585",
+    "project_id": "firecars-4eab1",
+    "storage_bucket": "firecars-4eab1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524759330585:android:eb6f3b888ba90d321edf88",
+        "android_client_info": {
+          "package_name": "com.example.firecars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524759330585-7nhrn5fmh977d9ejuh3m4vvlqt3brdlk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firecars",
+            "certificate_hash": "cb615688b6c7c2d2baa819d62abc95341869faf0"
+          }
+        },
+        {
+          "client_id": "524759330585-et8cdbjv64ld9c510nlktgi0qg8ccpft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3YCQdxegc-wgTejXOjTq-ND34s9PXeXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524759330585-et8cdbjv64ld9c510nlktgi0qg8ccpft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
